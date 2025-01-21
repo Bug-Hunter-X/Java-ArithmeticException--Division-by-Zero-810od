@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Java: division by zero. The `bug.java` file contains code that attempts to divide an integer by zero, resulting in an `ArithmeticException`.  The `bugSolution.java` file shows how to avoid this error by adding a check to prevent division by zero.
